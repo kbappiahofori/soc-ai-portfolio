@@ -1,10 +1,18 @@
 # Web Security Observations
 
 ## Overview
-This folder documents observations and defensive awareness from web security labs, including Juice Shop.  
-The emphasis is on identifying vulnerabilities, analyzing attack patterns, and framing defensive responses.
+This section documents defensive observations and security awareness gained from
+web application security labs, including environments such as OWASP Juice Shop.
+The emphasis is on recognizing common web vulnerabilities, understanding attack
+patterns from a SOC perspective, and articulating appropriate defensive responses.
+
+## Scope
+Work in this folder focuses on:
+- Observing and identifying common web application security issues
+- Understanding how attack patterns may appear in alerts or logs
+- Framing findings in a defensive, SOC-relevant context rather than exploitation
 
 ## Contents
-- Observations from web security exercises
-- Screenshots of findings
-- Notes on defensive strategies
+- Documented observations from web security exercises
+- Supporting screenshots highlighting relevant findings
+- Notes on defensive strategies and SOC response considerations
