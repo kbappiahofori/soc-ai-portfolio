@@ -1,10 +1,19 @@
 # AI-Assisted SOC Reporting
 
 ## Overview
-This folder showcases incident reports enhanced with AI-driven clarity and structure.  
-The goal is to demonstrate how AI can improve SOC documentation for readability and precision.
+This section focuses on SOC-style incident and alert documentation enhanced through
+responsible use of AI tools. The goal is to demonstrate how AI can support Tier 1 SOC
+analysts by improving clarity, consistency, and efficiency in security reporting,
+without replacing analyst judgment.
+
+## Scope
+Work in this folder emphasizes:
+- Writing clear and structured SOC incident reports
+- Producing alert summaries and escalation notes
+- Using AI tools to assist with language refinement and report standardization
 
 ## Contents
-- Sample incident reports
-- AI-assisted summaries
-- Comparison notes (manual vs AI-enhanced reporting)
+- Sample SOC incident reports
+- AI-assisted summaries and rewritten drafts
+- Comparison notes highlighting manual vs AI-enhanced reporting approaches
+``
