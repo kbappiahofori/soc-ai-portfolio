@@ -24,3 +24,7 @@ Work in this folder will focus on:
 ## Status
 This section is under active development.  
 Individual simulations and documented exercises will be added incrementally.
+
+### Documentation
+- [Research Methods & Investigation Workflow](./RESEARCH.md)
+[Recommended]
